@@ -74,12 +74,12 @@ namespace LearningWithBob
             StoreInfo.Information();
 
 
-           /* var sammyStuff = new Sammy();
+            var sammyStuff = new Sammy();
             Console.WriteLine(sammyStuff.money);
             Console.WriteLine(sammyStuff.headphone);
 
             var daraStuff = new Dara();
-            Console.WriteLine(daraStuff.money);*/
+            Console.WriteLine(daraStuff.money);// commented out new Dara
 
 
             var TochukwuStuff = new Tochukwu();
