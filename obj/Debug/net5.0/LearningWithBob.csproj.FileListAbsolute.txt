@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.exe
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.deps.json
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.runtimeconfig.json
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.runtimeconfig.dev.json
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.dll
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\ref\LearningWithBob.dll
+C:\Users\hp\source\repos\LearningWithBob\bin\Debug\net5.0\LearningWithBob.pdb
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.AssemblyInfo.cs
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.dll
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\ref\LearningWithBob.dll
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.pdb
+C:\Users\hp\source\repos\LearningWithBob\obj\Debug\net5.0\LearningWithBob.genruntimeconfig.cache
